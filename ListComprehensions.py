@@ -42,5 +42,4 @@ for x in range(1, 101):
     else:
         mylist.append(x)
 
-
 print(mylist)
